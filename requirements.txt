@@ -1,8 +1,1 @@
-streamlit
-pandas
-plotly
-wordcloud
-matplotlib
-kiwipiepy
-janome
 flask
