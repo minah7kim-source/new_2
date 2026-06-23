@@ -2,7 +2,6 @@ import os
 import streamlit as st
 import pandas as pd
 from collections import Counter
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import io
 
